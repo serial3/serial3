@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serial3&label=Profile%20views&color=0e75b6&style=flat" alt="serial3" /> </p>
 
-- 🔭 I’m currently working on **42Lisboa course**
+- 🔭 I’m currently working on **Critical Techworks**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently working with **C++**
 
 - 📫 How to reach me **Diogo_R_Leal@hotmail.com**
 
