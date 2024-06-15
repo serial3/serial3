@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serial3&label=Profile%20views&color=0e75b6&style=flat" alt="serial3" /> </p>
 
-- 🔭 I’m currently working on **Critical Techworks**
+- 🔭 I’m currently working at **Critical Techworks**
 
 - 🌱 I’m currently working with **C++**
 
